@@ -1,0 +1,16 @@
+D:\Programmazione\C#\newapplicationKeylogger\newapplicationKeylogger\obj\Debug\provaKeylogger.csprojAssemblyReference.cache
+D:\Programmazione\C#\newapplicationKeylogger\newapplicationKeylogger\obj\Debug\provaKeylogger.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\newapplicationKeylogger\provaKeylogger\obj\Debug\provaKeylogger.csprojAssemblyReference.cache
+D:\Programmazione\C#\newapplicationKeylogger\provaKeylogger\obj\Debug\provaKeylogger.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\newapplicationKeylogger\provaKeylogger\bin\Debug\provaKeylogger.exe.config
+D:\Programmazione\C#\newapplicationKeylogger\provaKeylogger\bin\Debug\provaKeylogger.exe
+D:\Programmazione\C#\newapplicationKeylogger\provaKeylogger\obj\Debug\provaKeylogger.exe
+D:\Programmazione\C#\newapplicationKeylogger\provaKeylogger\obj\Debug\provaKeylogger.pdb
+D:\Programmazione\C#\newapplicationKeylogger\provaKeylogger\bin\Debug\provaKeylogger.pdb
+D:\Programmazione\C#\provaKeylogger\provaKeylogger\bin\Debug\provaKeylogger.exe.config
+D:\Programmazione\C#\provaKeylogger\provaKeylogger\bin\Debug\provaKeylogger.exe
+D:\Programmazione\C#\provaKeylogger\provaKeylogger\bin\Debug\provaKeylogger.pdb
+D:\Programmazione\C#\provaKeylogger\provaKeylogger\obj\Debug\provaKeylogger.csprojAssemblyReference.cache
+D:\Programmazione\C#\provaKeylogger\provaKeylogger\obj\Debug\provaKeylogger.csproj.CoreCompileInputs.cache
+D:\Programmazione\C#\provaKeylogger\provaKeylogger\obj\Debug\provaKeylogger.exe
+D:\Programmazione\C#\provaKeylogger\provaKeylogger\obj\Debug\provaKeylogger.pdb
